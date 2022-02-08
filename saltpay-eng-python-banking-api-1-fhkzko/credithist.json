@@ -1,0 +1,27 @@
+{
+	"arisha_barron":{
+		"credit_balance": 10000,
+		"credit_paid": 5000, 
+		"credit_balance": 5000
+		},
+
+	"branden_gibson":{                                                                                                               
+		"credit_balance": 80000,                                                                                                
+		"credit_paid": 5000,                                                                                                    
+		"credit_balance": 3000                                                                                                                                                                                                                                  
+			},
+
+	"rhonda_church":{                                                                                                               
+		"credit_balance": 9000,                                                                                                
+		"credit_paid": 3000,                                                                                                    
+		"credit_balance": 6000                                                                                                                                                                                                                                  
+			},
+
+	"georgina_hazel":{                                                                                                               
+		"credit_balance": 12000,                                                                                                
+		"credit_paid": 5000,                                                                                                    
+		"credit_balance":7000                                                                                                                                                                                                                                  
+			}
+
+
+}

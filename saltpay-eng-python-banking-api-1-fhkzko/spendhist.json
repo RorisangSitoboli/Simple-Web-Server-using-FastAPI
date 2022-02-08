@@ -1,0 +1,25 @@
+{
+	"arisha_barron":{
+			"total_spend": 12345,
+			"liability": 2000,
+			"assets": 123
+			},
+
+	"branden_gibson":{                                                                                                                       
+		"total_spend": 2468,                                                                                                   
+		"liability": 100,                                                                                                      
+		"assets": 12                                                                                                            
+			}, 
+
+	"rhonda_church":{                                                                                                                       
+		"total_spend": 369,                                                                                                   
+		"liability": 10,                                                                                                      
+		"assets": 23                                                                                                            
+			}, 
+
+	"georgina_hazel": {                                                                                                                                                                                                                                  
+		"total_spend": 12389,                                                                                                   
+		"liability": 7,                                                                                                      
+		"assets": 123                                                                                                            
+			} 
+}
